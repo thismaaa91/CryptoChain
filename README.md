@@ -1,0 +1,2 @@
+# CryptoChain
+Partage de fichiers chiffrés de bout en bout : L'utilisation et le traitement des données personnelles sont encadrés par loi RGPD, le non-respect de cette loi et très lourdement pénalisé. En plus, en cas de fuite d'information à partir des serveurs de stockage des données, la responsabilité de l'hébergeur des données sera engagée. Cette fuite aura aussi des impacts sur la confiance des utilisateurs envers ce service.
