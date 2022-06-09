@@ -14,6 +14,6 @@ Notre entreprise à la volonté de vous proposer une meilleure expérience avec 
 
 
 * Vincent Retkowsky : 
-* Mathis Farrugia : 
+* Mathis Farrugia : Chef de projet
 * Menkem Huet : 
 * Pham Trung : 
